@@ -2,7 +2,7 @@ import logo from "../assets/logo.png";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaMedium } from "react-icons/fa";
-import resume from "../assets/ÖmerCakar.pdf"
+import resume from "../assets/ÖmerCAKAR.pdf"
 
 const Navbar = () => {
   return (
